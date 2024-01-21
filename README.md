@@ -4,7 +4,8 @@ I'm passionate about programming. Right now, I'm diving deep into the world of m
 Skills
 * 👍🏻Python (Numpy, Pandas, Matplotlib)
 * 👩‍💻JavaScript (Bootstrap, HTML, CSS, Node.js)
-* 🖥React
+* 🖥ReactJS
+* 📱React Native
 * ☎️Java
 * 💫Swift
 * 📂SQL
